@@ -19,7 +19,7 @@
         <TextBox x:Name="txtExpense" HorizontalAlignment="Left" Height="23" Margin="142,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txtExpense_TextChanged"/>
         <TextBox x:Name="txtWishList" HorizontalAlignment="Left" Height="23" Margin="142,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txtWishList_TextChanged"/>
         <Label Content="Keeping income Total" HorizontalAlignment="Left" Height="28" Margin="142,160,0,0" VerticalAlignment="Top" Width="138"/>
-        <Button x:Name="btnCalculate" Content="Calculate" HorizontalAlignment="Left" Margin="52,163,0,0" VerticalAlignment="Top" Width="75" Click="btnCalculate_Click"/>
+        <Button x:Name="btnCalculate" Content="Calculate!" HorizontalAlignment="Left" Margin="52,163,0,0" VerticalAlignment="Top" Width="75" Click="btnCalculate_Click"/>
 
     </Grid>
 </Window>
